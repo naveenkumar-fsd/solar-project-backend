@@ -114,17 +114,17 @@ cd solarai-backend
 
 ## 🧮 Estimator Logic (Backend)
 
-Unit rate: ₹6 per unit
+-Unit rate: ₹6 per unit
 
-Power generation: 120 units per kW per month
+-Power generation: 120 units per kW per month
 
-Roof area required: 100 sq.ft per kW
+-Roof area required: 100 sq.ft per kW
 
-Cost per kW: ₹55,000
+-Cost per kW: ₹55,000
 
-Roof feasibility validated before calculation
+-Roof feasibility validated before calculation
 
-This logic is shared conceptually with the frontend utility for consistency
+-This logic is shared conceptually with the frontend utility for consistency
 
 ##🔐 Security (Future Scope)
 
@@ -146,17 +146,17 @@ Analytics dashboard
 
 Cloud deployment (AWS / Azure)
 
-##)
-
+##
+#
 📌 Use Cases
 
-Full-stack solar company application
+-Full-stack solar company application
 
-Backend for estimator & chatbot
+-Backend for estimator & chatbot
 
-Admin dashboard data provider
+-Admin dashboard data provider
 
-Scalable startup backend architecture
+-Scalable startup backend architecture
 
 
 
